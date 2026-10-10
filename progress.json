@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:25:11.575Z",
+  "generated_at": "2026-10-10T21:06:48.149Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-10-08T17:25:09.772Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-10-10T21:06:45.699Z",
+      "last_pushed_at": "2026-10-10T21:06:45.699Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
