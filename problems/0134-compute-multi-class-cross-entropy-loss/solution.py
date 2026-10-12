@@ -13,13 +13,18 @@ def compute_cross_entropy_loss(predicted_probs: torch.Tensor, true_labels: torch
     """
     predicted_probs = torch.as_tensor(predicted_probs, dtype=torch.float32)
     true_labels = torch.as_tensor(true_labels, dtype=torch.float32)
-
-    y_pred = torch.clamp(
-        predicted_probs,
-        min=epsilon,
-        max=1.0 - epsilon
-    )
-
-    loss = -torch.sum(true_labels * torch.log(y_pred), dim=1)
-
+    y_pred=torch.clamp(predicted_probs,min=epsilon,max=1.0-epsilon)
+    loss=-torch.sum(true_labels*torch.log(y_pred),dim=1)
     return torch.mean(loss).item()
+    # predicted_probs = torch.as_tensor(predicted_probs, dtype=torch.float32)
+    # true_labels = torch.as_tensor(true_labels, dtype=torch.float32)
+
+    # y_pred = torch.clamp(
+    #     predicted_probs,
+    #     min=epsilon,
+    #     max=1.0 - epsilon
+    # )
+
+    # loss = -torch.sum(true_labels * torch.log(y_pred), dim=1)
+
+    # return torch.mean(loss).item()
