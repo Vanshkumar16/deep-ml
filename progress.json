@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:13:50.824Z",
+  "generated_at": "2026-10-12T18:25:12.682Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -167,6 +167,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-12T17:13:50.766Z",
       "last_pushed_at": "2026-10-12T17:13:50.766Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-10-12T18:25:11.923Z",
+      "last_pushed_at": "2026-10-12T18:25:11.923Z"
     }
   }
 }
