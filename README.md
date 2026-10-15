@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 15 problems · 0 labs · 5 math
+**21** solved · 16 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-10-15 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-23 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-14 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-12 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
