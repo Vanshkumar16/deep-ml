@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:19:21.694Z",
+  "generated_at": "2026-10-19T01:19:33.991Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,7 +286,7 @@
       "url": "https://www.deep-ml.com/problems/321",
       "path": "problems/0321-bleu-score-for-text-generation",
       "first_solved_at": "2026-10-19T01:19:20.215Z",
-      "last_pushed_at": "2026-10-19T01:19:20.215Z",
+      "last_pushed_at": "2026-10-19T01:19:32.505Z",
       "language": "python",
       "lines": 96
     }
