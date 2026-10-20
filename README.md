@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 21 problems · 0 labs · 5 math
+**27** solved · 22 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-24 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-19 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-16 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-10-20 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-10-19 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-13 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-08 | [solution](problems/0049-implement-adam-optimization-algorithm) |
