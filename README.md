@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 25 problems · 0 labs · 5 math
+**31** solved · 26 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-10-19 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-13 | [solution](problems/0205-entropy-cross-entropy) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-08 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-20 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-20 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-10-20 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-23 | [solution](problems/0025-single-neuron-with-backpropagation) |
