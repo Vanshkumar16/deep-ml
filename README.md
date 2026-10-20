@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 23 problems · 0 labs · 5 math
+**29** solved · 24 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-10-15 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-28 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-24 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-10-20 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Tokenizer with Unknown and End-of-Text Tokens](https://www.deep-ml.com/problems/943) | easy | 2026-10-19 | [solution](problems/0943-tokenizer-with-unknown-and-end-of-text-tokens) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-10-20 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
