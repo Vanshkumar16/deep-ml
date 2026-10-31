@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 27 problems · 0 labs · 6 math
+**34** solved · 28 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-10-08 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-20 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-20 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-31 | [solution](problems/0009-matrix-times-matrix) |
 | [Reward Model Loss from Pairwise Human Preferences](https://www.deep-ml.com/problems/484) | medium | 2026-10-20 | [solution](problems/0484-reward-model-loss-from-pairwise-human-preferences) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-23 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-20 | [solution](problems/0378-temperature-sampling) |
